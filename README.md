@@ -8,10 +8,11 @@ Features:
 4. Provides a behavioral profiling of the clusters.
 5. Present top k user, thread and time from each cluster.
 6. Provies a nice StoryLine  view of the important events per cluster.
+7. Saves the output of the cluster (entities per clusters) in pickle file.
 
 
 Disclaimer: 
-This code may not match with the paper. We are providing just a backbone of the code here. We will keep updating this code continuously. If you need more information, please contact me directly at risla002@ucr.edu
+This code may not match with the paper. We are providing just a backbone of the code here. We will keep updating this code continuously. One sample input file is given for sowing the formt of the input data. If If you need more information about other input file (big file, can not be uploaded here) or any infortaion, please contact me directly at risla002@ucr.edu.
 
 
 To Run the code:
