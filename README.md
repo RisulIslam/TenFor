@@ -12,7 +12,7 @@ Features:
 
 
 Disclaimer: 
-This code may not match with the paper. We are providing just a backbone of the code here. We will keep updating this code continuously. One sample input file (reddit data, not security forum) is given for sowing the formt of the input data. If If you need more information about other input file (big file, can not be uploaded here) or any infortaion, please contact me directly at risla002@ucr.edu.
+This code may not match with the paper. We are providing just a backbone of the code here. We will keep updating this code continuously. One sample input file (reddit data, not security forum) is given for sowing the formt of the input data. If If you need more information about other input file (big file, can not be uploaded here) or security forum dataset or any information, please contact me directly at risla002@ucr.edu.
 
 
 To Run the code:
